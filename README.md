@@ -12,6 +12,7 @@ The transformer
 </p>
 
 English sentence : `And we say that word with such contempt.`
+
 Translated Hindi sentence : `[start] और हम यह पता है कि क्या करना है [end]`
 
 # Prerequisites
