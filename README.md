@@ -7,9 +7,9 @@ This repository performs neural machine translation (NMT) using 'transformer' pr
 # Highlights
 
 The transformer
-<p>
-<img align="center" src="https://drive.google.com/file/d/1sOxJ2fxhTKDTYfwQaxsTh5HrBXiFznxb/view?usp=sharing", alt="Generator"/>
-</p>
+
+<img width="833" alt="Screenshot 2023-04-06 at 9 23 37 AM" src="https://user-images.githubusercontent.com/76246981/230337065-93ba942f-5fa7-4ddb-a967-8780add57c91.png">
+
 
 English sentence : `And we say that word with such contempt.`
 
