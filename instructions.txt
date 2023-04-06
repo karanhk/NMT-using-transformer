@@ -1,0 +1,4 @@
+Install all packages from requirments.txt.
+Download the 'Hindi English truncated corpus' dataset to train the model. Run the implementation.ipynb file to train the model. All the lines in this file are
+self explainatory.
+After training you can use the model to translate any English sentence to Hindi sentence.
