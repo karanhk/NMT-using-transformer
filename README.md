@@ -2,7 +2,7 @@
 
 ## Abstract
 
-This repository performs neural machine translation (NMT) using 'transformer' proposed by google in paper 'Attention is all you need' in year 2017. It translates English sentence into Hindi sentence with an accuracy of **30 percent** by using attention mechanism. It is trained on <a href="https://www.kaggle.com/datasets/umasrikakollu72/hindi-english-truncated-corpus">Hindi English truncated corppus</a> dataset. The model is built with `Tensorflow` and completly implemented in `Python`.
+This repository performs neural machine translation (NMT) using 'transformer' proposed by google in paper 'Attention is all you need' in year 2017. It translates English sentence into Hindi sentence with an accuracy of **30 percent** by using attention mechanism. It is trained on <a href="https://www.kaggle.com/datasets/umasrikakollu72/hindi-english-truncated-corpus">Hindi English truncated corpus</a> dataset. The model is built with `Tensorflow` and completly implemented in `Python`.
 
 # Highlights
 
